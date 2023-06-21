@@ -1,0 +1,12 @@
+C:\Users\ELCOT\Desktop\GitDemo\SampleV1\RPS Game\RPS Game\bin\Debug\RPS Game.exe.config
+C:\Users\ELCOT\Desktop\GitDemo\SampleV1\RPS Game\RPS Game\bin\Debug\RPS Game.exe
+C:\Users\ELCOT\Desktop\GitDemo\SampleV1\RPS Game\RPS Game\bin\Debug\RPS Game.pdb
+C:\Users\ELCOT\Desktop\GitDemo\SampleV1\RPS Game\RPS Game\obj\Debug\RPS Game.csprojResolveAssemblyReference.cache
+C:\Users\ELCOT\Desktop\GitDemo\SampleV1\RPS Game\RPS Game\obj\Debug\RPS Game.exe
+C:\Users\ELCOT\Desktop\GitDemo\SampleV1\RPS Game\RPS Game\obj\Debug\RPS Game.pdb
+C:\Users\Prasanna\Downloads\1\New folder (2)\Projects\RPS Game\RPS Game\bin\Debug\RPS Game.exe.config
+C:\Users\Prasanna\Downloads\1\New folder (2)\Projects\RPS Game\RPS Game\obj\Debug\RPS Game.exe
+C:\Users\Prasanna\Downloads\1\New folder (2)\Projects\RPS Game\RPS Game\obj\Debug\RPS Game.pdb
+C:\Users\Prasanna\Downloads\1\New folder (2)\Projects\RPS Game\RPS Game\bin\Debug\RPS Game.exe
+C:\Users\Prasanna\Downloads\1\New folder (2)\Projects\RPS Game\RPS Game\bin\Debug\RPS Game.pdb
+C:\Users\Prasanna\Downloads\1\New folder (2)\Projects\RPS Game\RPS Game\obj\Debug\RPS Game.csprojResolveAssemblyReference.cache
